@@ -260,4 +260,16 @@
         xsi:type="archimate:Facility"
         href="Facility_600f278d-fadb-4c0d-ad04-bf7b13a3732f.xml#600f278d-fadb-4c0d-ad04-bf7b13a3732f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="70510117-554c-41ca-a0af-416e38871194"
+      font="1|Segoe UI|18.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      content="Chromecast Archimate Example"
+      textPosition="1">
+    <bounds
+        x="159"
+        y="409"
+        width="418"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
